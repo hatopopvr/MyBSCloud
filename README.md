@@ -8,6 +8,10 @@
 - Google Driveの認証はScoreSaberのプレイデータを保存することのみに使います。(アクセス負荷減
 - ※日本語には対応していません
 
+![wordcloud](images/MyBSCloud_image_001.png)
+
+![masked_wordcloud](images/MyBSCloud_image_002.png)
+
 <b>データ元</b>
 - Score Data from ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
 
