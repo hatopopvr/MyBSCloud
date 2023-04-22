@@ -1,5 +1,7 @@
 ## MyBSCloud
 
+[MyBSCloud](https://colab.research.google.com/github/hatopopvr/MyBSCloud/blob/main/MyBSCloud.ipynb)
+
 <b>概要</b>
 - ScoreSaberのデータを使用して自分のプレイを構成するマッパーや作曲者のwordcloud画像を作成するツールです。
 - マスク画像を使用することで自分らしいwordcloud画像を作成することもできます。
