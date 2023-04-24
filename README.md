@@ -4,11 +4,11 @@
 
 <b>概要</b>  
 
-  ScoreSaberのデータを使用して自分のBeatSaberのプレイを構成するmapperやartistのwordcloud画像を作成するツールです。<br />
-  ワードの出現数ベース(背景白)とPPWeightベース(背景黒)の2種類のWordCloudを出力します。<br />
-　マスク画像を使用することで自分らしいwordcloud画像を作成することもできます。<br />
-　Google Driveの認証はScoreSaberのプレイデータを保存することのみに使います。(ScoreSaber APIへのアクセス負荷減のため)<br />
-　作成するwordcloudは日本語には対応していません。<br />
+ScoreSaberのデータを使用して自分のBeatSaberのプレイを構成するmapperやartistのwordcloud画像を作成するツールです。<br />
+ワードの出現数ベース(背景白)とPPWeightベース(背景黒)の2種類のWordCloudを出力します。<br />
+マスク画像を使用することで自分らしいwordcloud画像を作成することもできます。<br />
+Google Driveの認証はScoreSaberのプレイデータを保存することのみに使います。(ScoreSaber APIへのアクセス負荷減のため)<br />
+作成するwordcloudは日本語には対応していません。<br />
 
 - 例) Mapperのword cloud…背景白:ワードの出現数ベース, 背景黒:PPWeightベース
 
