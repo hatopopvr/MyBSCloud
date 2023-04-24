@@ -21,10 +21,6 @@ Google Driveの認証はScoreSaberのプレイデータを保存することの�
 <b>データ元</b>
 - ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
 
-<b>データ元</b>
-- ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
-
-
 <b>このノートの作者</b>
 - hatopop ([@hatopop_vr](https://twitter.com/hatopop_vr))
 
@@ -39,7 +35,3 @@ Google Driveの認証はScoreSaberのプレイデータを保存することの�
 - [**PIL (Pillow)**](https://pillow.readthedocs.io/en/stable/): 画像処理のためのライブラリ。
 - [**wordcloud**](https://amueller.github.io/word_cloud/): ワードクラウドの生成のためのライブラリ。
 - [**openai**](https://github.com/openai/openai): OpenAI APIを利用するためのライブラリ。
-
-<b>お願い</b>  
-
-もし気に入ったらgithub starをお願いします。
