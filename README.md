@@ -3,22 +3,16 @@
 ->[Google Colab](https://colab.research.google.com/github/hatopopvr/MyBSCloud/blob/main/MyBSCloud.ipynb)
 
 <b>概要</b>
-- ScoreSaberのデータを使用して自分のプレイを構成するマッパーや作曲者のwordcloud画像を作成するツールです。
+- ScoreSaberのデータを使用して自分のプレイを構成するmapperやartistのwordcloud画像を作成するツールです。
+- ワードの出現数ベース(背景白)とPPWeightベース(背景黒)の2種類のWordCloudを出力します。
 - マスク画像を使用することで自分らしいwordcloud画像を作成することもできます。
-- Google Driveの認証はScoreSaberのプレイデータを保存することのみに使います。(アクセス負荷減
-- ※日本語には対応していません
+- Google Driveの認証はScoreSaberのプレイデータを保存することのみに使います。(ScoreSaber APIへのアクセス負荷減のため)
+- 作成するwordcloudは日本語には対応していません。
 
 ![wordcloud](images/MyBSCloud_image_001.png)
 
 ![masked_wordcloud](images/MyBSCloud_image_002.png)
 
-<b>概要</b>
-- ScoreSaberのデータを使用して自分のプレイを構成するmapperやartistのwordcloud画像を作成するツールです。
-- ワードの出現数ベース(背景白)とPPWeightベース(背景黒)の2種類のWordCloudを出力します。
-- マスク画像を使用することで自分らしいwordcloud画像を作成することもできます。
-- Google Driveの認証はScoreSaberのプレイデータを保存することのみに使います。(ScoreSaber APIへのアクセス負荷減のため)
-
-- 作成するwordcloudは日本語には対応していません。
 
 <b>データ元</b>
 - ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
