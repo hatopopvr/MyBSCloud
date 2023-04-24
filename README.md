@@ -2,7 +2,8 @@
 
 ->[Google Colab](https://colab.research.google.com/github/hatopopvr/MyBSCloud/blob/main/MyBSCloud.ipynb)
 
-<b>概要</b>
+<b>概要</b>  
+
   ScoreSaberのデータを使用して自分のBeatSaberのプレイを構成するmapperやartistのwordcloud画像を作成するツールです。<br />
   ワードの出現数ベース(背景白)とPPWeightベース(背景黒)の2種類のWordCloudを出力します。<br />
 　マスク画像を使用することで自分らしいwordcloud画像を作成することもできます。<br />
