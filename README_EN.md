@@ -4,7 +4,7 @@
 
 <b>Overview</b>
 
-This tool creates word cloud images of the mappers and artists that make up your Beat Saber plays using ScoreSaber data. It outputs two types of WordClouds: based on word frequency (white background) and PPWeight (black background). You can also create a personalized word cloud image using a mask image. Google Drive authentication is only used to save your ScoreSaber play data (to reduce access load on the ScoreSaber API). The word cloud created does not support Japanese.
+This tool creates word cloud images of the mappers and artists that make up your Beat Saber plays using ScoreSaber data. It outputs two types of WordClouds: based on word frequency (white background) and PPWeight (black background). You can also create a personalized word cloud image using a mask image. Google Drive authentication is only used to save your ScoreSaber play data (to reduce access load on the ScoreSaber API).
 
 - Example) Mapper's word cloud… White background: based on word frequency (unranked only, etc.), Black background: PPWeight-based
 
