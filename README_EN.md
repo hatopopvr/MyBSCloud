@@ -1,5 +1,7 @@
 ## MyBSCloud
 
+<b>[README(日本語)](README.md)</b>
+
 ->[Google Colab](https://colab.research.google.com/github/hatopopvr/MyBSCloud/blob/main/MyBSCloud.ipynb)
 
 <b>Overview</b>
