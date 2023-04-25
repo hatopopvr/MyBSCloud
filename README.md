@@ -2,7 +2,8 @@
 
 <b>[README(ENGLISH)](README_EN.md)</b>
 
-->[Google Colab](https://colab.research.google.com/github/hatopopvr/MyBSCloud/blob/main/MyBSCloud.ipynb)
+->[Google Colab(日本語)](https://colab.research.google.com/github/hatopopvr/MyBSCloud/blob/main/MyBSCloud.ipynb)
+->[Google Colab(ENGLISH)](https://colab.research.google.com/github/hatopopvr/MyBSCloud/blob/main/MyBSCloud_En.ipynb)
 
 <b>概要</b>  
 
