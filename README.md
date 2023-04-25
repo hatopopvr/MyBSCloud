@@ -12,7 +12,7 @@ Google Driveの認証はScoreSaberのプレイデータを保存することの�
 
 - 例) Mapperのword cloud…背景白:ワードの出現数ベース(アンランクのみ), 背景黒:PPWeightベース
 
-![wordcloud](images/img_005.jpg) ![wordcloud](images/img_002.jpg)
+![wordcloud](images/img_001.jpg) ![wordcloud](images/img_002.jpg)
 
 - 例) Mapperのword cloud(Mask)…背景白:ワードの出現数ベース, 背景黒:PPWeightベース
 
