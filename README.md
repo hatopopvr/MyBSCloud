@@ -10,9 +10,9 @@ ScoreSaberのデータを使用して自分のBeatSaberのプレイを構成す�
 Google Driveの認証はScoreSaberのプレイデータを保存することのみに使います。(ScoreSaber APIへのアクセス負荷減のため)<br />
 作成するwordcloudは日本語には対応していません。<br />
 
-- 例) Mapperのword cloud…背景白:ワードの出現数ベース(アンランクのみ), 背景黒:PPWeightベース
+- 例) Mapperのword cloud…背景白:ワードの出現数ベース(アンランクのみ等), 背景黒:PPWeightベース
 
-![wordcloud](images/img_001.jpg) ![wordcloud](images/img_002.jpg)
+![wordcloud](images/img_006.jpg) ![wordcloud](images/img_002.jpg)
 
 - 例) Mapperのword cloud(Mask)…背景白:ワードの出現数ベース, 背景黒:PPWeightベース
 
