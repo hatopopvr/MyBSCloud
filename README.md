@@ -1,6 +1,6 @@
 ## MyBSCloud
 
-->[README(ENGLISH)](README_EN.md)
+<b>[README(ENGLISH)](README_EN.md)</b>
 
 ->[Google Colab](https://colab.research.google.com/github/hatopopvr/MyBSCloud/blob/main/MyBSCloud.ipynb)
 
