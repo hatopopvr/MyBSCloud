@@ -17,10 +17,6 @@ This tool creates word cloud images of the mappers and artists that make up your
 
 ![wordcloud](images/img_003.jpg) ![wordcloud](images/img_004.jpg)
 
-<b>How to Use</b>
-
-![images/how_to_use_mybscloud_en.mp4](https://github.com/hatopopvr/MyBSCloud/blob/main/images/how_to_use_mybscloud_en.mp4)
-
 <b>Data Source</b>
 
 - ScoreSaber Public API - [doc](https://docs.scoresaber.com/)
